@@ -1,2 +1,3 @@
-# benri
-Just easy web messenger
+# べんり(be-n-ri)
+
+Easy to use web messenger
